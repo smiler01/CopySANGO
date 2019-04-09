@@ -1,11 +1,12 @@
 # **Copy_SANGO**
 
 ## **概要**
-これはLP（Landing Page）の模写になります。<br>
-未学習の為、この時点ではJavaScriptを用いずにコーディングを行なっています。<br>
+LP（Landing Page）の模写用のリポジトリになります。<br>
+未学習の為、この時点ではJavaScriptを用いずにHTML+CSSのみでコーディングしています。<br>
 細かい部分は目を瞑って実装しています。<br>
 
 ## **対象サイト**
+対象サイト：[SANGO](https://saruwakakun.design/)<br>
 SANGOと呼ばれるサルワカさんが作ったWordPressテーマが対象です。<br>
 
 ## **デモページ**
